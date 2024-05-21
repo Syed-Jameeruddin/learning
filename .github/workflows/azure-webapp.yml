@@ -1,0 +1,12 @@
+{
+  "URL": "http://<app-name>.azurewebsites.net",
+  "appserviceplan": "<app-service-plan-name>",
+  "location": "centralus",
+  "name": "<app-name>",
+  "os": "linux","Windows","Mac-os",
+  "resourcegroup": "<group-name>",
+  "runtime_version": "php|8.2",
+  "runtime_version_detected": "0.0",
+  "sku": "FREE",
+  "src_path": "//home////myPhpApp"
+}
